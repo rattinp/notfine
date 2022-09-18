@@ -49,8 +49,7 @@ void loop()
      //radar -31.368533106435464, -57.942892237179066
      // radar_exacto -31.368817, -57.942755
    // static const double Dest_LAT = 18.786254, Dest_LON = 73.880798; //londres
-  //  static const double Dest_LAT = -31.388004, Dest_LON = -57.963952; //casita
- //    static const double Dest_LAT = -31.368533, Dest_LON = -57.942892; //radar
+
      static const double Dest_LAT = -31.368817, Dest_LON = -57.942755; //radar_exacto
     
      double distanceToDest =
